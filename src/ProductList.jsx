@@ -315,4 +315,5 @@ const handleContinueShopping = () => {
     );
 }
 
+
 export default ProductList;
